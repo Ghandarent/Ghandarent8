@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Fields",
+  "age": 62,
+  "address": {
+    "street": "Isaeko Circle",
+    "city": "Kitbanmi",
+    "state": "MT",
+    "zip": "07053"
+  },
+  "contact": {
+    "phone": "(747) 739-1366",
+    "servicePhone": "800918377"
+  },
+  "birthday": "2003-01-07T18:20:22.166Z",
+  "ip": "241.233.203.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Monifube docawi eki pagmefu luwuc avikin lerow niinkun hep mif vu pogaz ib zaesoku. Ab gacfizih sehuwub wuffel fu wucotpit ema pansac jizjimu so vitoka on naus. Ziwuddo horirgeg cenufso edefi licwumi hi nagomor karoci ze uf uvuaku gomuj beltandob nizubhiv disi luvve durgoze.",
+    "bio": "So gebcoge riuntos haaju supa daive gebueg cothajfag noteme gipca mu verabo fa. Mon isu do ofzeus vizzeg edra upogiv deav vir ca tuspe aniweren ca cedap ko. Ca pifuov enocuse so vijwehpa remutsef ud dorre ros fovohahuw nezut reuwega havad uteka do wadu se. Kesuas fegoahe sowiddag ib okpogi lez jisoci rup uv oldacrum woes buwoefo peru gi. Ulunugal pegho puzavut ceb womawco jum na cilona femliv virrolo ucfiw nojugi. Pudmot kulo tuzwa naonezo luwi sik doso tat zehpe ubaiwi fun lejone nitavem ag poh bajob."
+  },
+  "apiKey": "f3d386e9e74fe85b3e62fa9c09f19cc523c6537eeab2e840df53787ef3c778c9",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Philip Hudson",
+  "age": 19,
+  "address": {
+    "street": "Lofli Drive",
+    "city": "Tietoeso",
+    "state": "GA",
+    "zip": "18658"
+  },
+  "contact": {
+    "phone": "(281) 530-3591",
+    "servicePhone": "800716965"
+  },
+  "birthday": "2000-05-20T20:45:41.814Z",
+  "ip": "34.84.183.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Wus opted jisda nab duvwetes wujedbuj kuestuj cepiplog wofdoga lotonaz cadbotsu zemdidpa calen va tuju ted hepkemud pu. Luwe wiwpuc didte je ga vete ajgupu esoc utlacrif div vep hakwouku befahriw wivi wizzam. Gi uj fidbega busuk div tapnihte geake bucfus hejor liuluof movon lesowoigo edpu li ziwcotlap arani fezoji. Ebejibva gelok new dodudgu tujuca suvmed fop puc ogaimi uched sa be susibir jugejus hudpij li zulmej.",
+    "bio": "Vubop obcoezi zovotva hez mukmada pu mod udadupo cenosoab kotwu vupimas kawno. Jac pi jabmucso afweb sa naiga okucaob konujo obnod vazad uvnafo pe zercahva. Joopejoc umgic cahce ci uvod gu hihivebon vudzil lug fosmaruj wudud apo fibufun kaoj nik. Pok cuzpege ba cenka eme rohziz atari zow hapitsof ugo camwugwik lalzir dogakre cuhod. Notwuw fo fe zobur ipo ehfu jik onadif rum sumi gikbu jifkueko oliila."
+  },
+  "apiKey": "8741ec2d13f06eb753776a7d2b56261e1da0fa57c8fe02fe13364025f73a8788",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}

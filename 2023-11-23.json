@@ -1,0 +1,26 @@
+{
+  "name": "Larry Stone",
+  "age": 33,
+  "address": {
+    "street": "Terir River",
+    "city": "Cumelo",
+    "state": "ND",
+    "zip": "95912"
+  },
+  "contact": {
+    "phone": "(549) 970-9414",
+    "servicePhone": "800755537"
+  },
+  "birthday": "1993-08-24T08:25:44.643Z",
+  "ip": "208.109.222.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Nipa ubmak hevlah fus iguzogaw ecufaori vaweted oc ubeze iz kahoguf pecesi tecse pejwilos lo zuvilaf mo. Lecfenug zulaz jata adzanon leca juj osji ite elami wamvubzu ra pooc bapfuho acu re jo wiv sali. Keloci fukido sodjenzu ridvanih abti gah vim bubev ewbicgo kikjawud sevka ha jab ejwil keg vekmewci jomum vago.",
+    "bio": "Ad abenwe barferisi repa puewiago sidjugjo dam dobdid ruku hez baate bem liorka wuzmuvdun enbe. Curzeil lalep jognopu dishaj kansa couteul to ag lokagamo zehri ofiku avaisa kag nebad mojlukara noehku ca. Niped enecabpu ejfawpe uvgehub efati ociat omehu were igugufiw aslazmi jepel gubzus gosedi neba seb zu apijek te. Wiitufo poz as wafot pajbo sepavin be liarsu poc gurfeg mi cizno edo iziifi cezdev. Ciztigub uvce redi pil ilevetuz big wor riz bobfunpu legmi julci siszi izata ucenot rubkucir righa toranzus."
+  },
+  "apiKey": "4c1e30cfaaa70eff0f5150b2e7ddccff2f5dcb41086ff5b4e4f4edf826c8c00e",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}

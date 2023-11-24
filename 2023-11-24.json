@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Brewer",
+  "age": 20,
+  "address": {
+    "street": "Upuoj Parkway",
+    "city": "Kaibjin",
+    "state": "NJ",
+    "zip": "61026"
+  },
+  "contact": {
+    "phone": "(261) 705-5323",
+    "servicePhone": "800957172"
+  },
+  "birthday": "1962-10-11T08:28:10.690Z",
+  "ip": "146.248.126.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Asdedev rek zo ukfifto sujos gialo imwucvi vohow zekhacoh zoc jivo cinucewu nud isipir. Gime baw zuzzetge olabanim ha ri hejusji kag kuvda is zuwratpi vonerisis. Roud suetugez wi noig dereic feol indev zupume dipemum ulka ciherpuv veet ovigo.",
+    "bio": "Norcafhec omuca ebal ba rilaril fen pejis ko rikek jafligu huodheh rumo emo er fuf wis. Miher hamikdo vu pefojjaw gi feh udfasev hob zutod lataz molor datav. Za okzagehi mu es arwora ub ketaije didok lihzo hojevta mu wo lecle odili jufozjo uw wivona. Mume ka taoh totwec beufiel ajuvuw gi lepsopi kuwisebi ikeum oh duzod vo. Popelnes lader avetih vukbog wemu vov wi bomipesu boko ujis apolo how fuvac wod. Jegumma sojmewluc nujawo toinge jop pihet tezgara gufzodil sunig vij neafocu de. Bormafu mintujik bo ibo sati gi avbisub junripzej buscivil veimo ga nih sabezi domob akvec di vegu wuk."
+  },
+  "apiKey": "623d8be250e4c12630fcd375b92208a7d224e05c41331535200ecea56197ef99",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}

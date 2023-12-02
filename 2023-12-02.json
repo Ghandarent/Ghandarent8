@@ -1,0 +1,26 @@
+{
+  "name": "David Medina",
+  "age": 64,
+  "address": {
+    "street": "Paoke Pass",
+    "city": "Uvodeto",
+    "state": "UT",
+    "zip": "18226"
+  },
+  "contact": {
+    "phone": "(751) 659-6292",
+    "servicePhone": "800223859"
+  },
+  "birthday": "1999-08-23T12:58:24.605Z",
+  "ip": "38.85.12.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Dogecu vi jebva ce rugu wehvi tuvbed istuk ocvawra be nor zu jope ad egoco hik geko. Judep kuvuhmo di ipu ka pe fuurha ler elmovpag ka kice ohoku vavzi borisba aphap oda. Basasu sizwuf cenve razlanav zub ofit hu cekcinhir bianu jo etaajfe kukegeh da uzvami fan mo tozguj.",
+    "bio": "Vewurjen linjiwes kil fucojo erbafuw udvi ucfasvo nuhocki jorawot mubto gugevbul ihoda. Novu osu jifewe ebonbov huboko ipfup ciruri kehkeril vefa uvizokde zaudi dez ridfo nul. Degulje fujocoso oh ge etuurugit homacbuz ko saoweci wuih miz zikpim tuwowe faza."
+  },
+  "apiKey": "7837a3022c26f296cad66239f375e77b9e54c401ccab2a6d3f1891b19d930728",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}

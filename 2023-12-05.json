@@ -1,0 +1,26 @@
+{
+  "name": "Fred Jensen",
+  "age": 51,
+  "address": {
+    "street": "Disu River",
+    "city": "Fulkizom",
+    "state": "HI",
+    "zip": "90161"
+  },
+  "contact": {
+    "phone": "(828) 352-3786",
+    "servicePhone": "800527898"
+  },
+  "birthday": "1969-03-03T10:29:46.064Z",
+  "ip": "83.88.134.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Peidu ibidbu hiza nav wuwiwtu vi finaset osamug tepma ri riubzo odura cehkipdak. Nekus tefekhoz wigumhab gecakzu vilpeg oze riwsuh ugsal jil wecranuni culun henjet vijufno izewafezo gibcuze picun. Himzele copajev hesfi oraici rure oj ja hogfikre tomas eramrok mufhedujo wurso berba tuj.",
+    "bio": "Zo golo afut bot getir ide im vutojmes acediuju alhe janugib fa. Fiwosa bakbeb wic ru icazebef ozi liboleru vob pi sakune iccoaza evosogwob duna paffom ceg. Darigbuh rouwibof kutwo bivfo to nezi icdauce burbe gu tikupje daggi tivsiw vipmur fujo kane ephic. No agtesaf hah ilu efa kowpu sarnat en awlo necifciz nuopkal lu ha."
+  },
+  "apiKey": "c3c2df559a4552faaedbd048892a7140006e651d24f7e1422e51ef0f5df5e527",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}

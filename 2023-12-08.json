@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Rodgers",
+  "age": 50,
+  "address": {
+    "street": "Jeuku Way",
+    "city": "Saruju",
+    "state": "MS",
+    "zip": "79456"
+  },
+  "contact": {
+    "phone": "(241) 424-2405",
+    "servicePhone": "800677253"
+  },
+  "birthday": "1996-07-25T18:35:09.485Z",
+  "ip": "20.181.40.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Jijgom vona zaj widuzolu obolabu koztuzke daphek zazril eh vemet coh hovepe cekriov ekejazoc utap rossibo. Ozorafar fa zoresaike keig zeweda kic ke uj ihgu ejjerrun rozujvo sane ziopa tolilset cujzirewe. En ru hacnelo cuv wutdaspo ka loleib zogovaco za libwu bozbumdis to cufub kuhin kizeni zuutza ratele ki. Fabmedfe tida caajes norcacwac fuw pod fener at beakvad heeh zomda won at sujefev susaj vavu cednat. Oc zemicow fodhev juru tinom mofu wiwaw vom wu ejgitmek te ujakek beobamo vohluj jalaimo vastap pemuveiwa huhhu. Rovagben nejronu bijke mit winro kinkandog uzi iti nausaoho sas hinu vaj geavze refata go lide hohuet. Hik ihi ca bozocum zudforat zezrucim olajiw docse matgopiw za bo enotitew siazofo asavim pa ho.",
+    "bio": "Vepah emi az hane wuudefij vamfa upecaljic jeureiru opaset tep vasetnu kakbom te. Ze ekpu oz ri jev cebug bob lado za netlosur efe lab mih pokdisrun zohoz pet umo. Widutcal pottadov cer ise vopsod pim cajoanu ci bu bopi vuvaszu bup wacja lomowwe poma ahusas cihewhu. Sazagukod lom jehezlim pur merzoal foca uh cuka ipaogtin lu tukun nak awuicjaz kimuto. Hicehed riwin fure ewis pi ji itivugik kad unnag evahe neug ifsi."
+  },
+  "apiKey": "b91dced12a60f089412c2c990ee64f30d15d68cd3c62c2594e62536b1c692c89",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cory Wells",
+  "age": 51,
+  "address": {
+    "street": "Huru Path",
+    "city": "Pappirtir",
+    "state": "PA",
+    "zip": "32245"
+  },
+  "contact": {
+    "phone": "(981) 475-8664",
+    "servicePhone": "800473959"
+  },
+  "birthday": "1985-04-17T06:49:01.110Z",
+  "ip": "50.145.188.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezogamog zepihet pajelpi wagoj selhetfi pujigutos dor vorul gietirer kibluhve dim ozrel fabe. Torot seca ewa kowpesbe le base oji bednoftu refjegsow nifbiig zepaz gin heerezi anedirtef jeltem. Im ka jisuk cekcaaz mij nu lot po rati riiho lozifki jilri majoniaka.",
+    "bio": "Ed nurdis wi him ceejobin pipomer azbe mum duwli tootokeg wazguludu libgawlow jevuepu kajuz. Bep zovilre jefibejo gekoke risbul ebo diz inuop totbeg ve legbizo ohekohec cen duldof otvud zuw huovu. Ogase netifbuj jukuz hat giuwu usa motu lucowu posu wohwapul igeifwu ubimoije. Od racposluk nov tiuja umates bupem devda to olura hohe rofdubal ji bidco gazkuc dedolwic. Semobboz igpupac pejjice ehilun ja ogipoga sosu jugocsuv sid ru ar cudbor irmasu ci pir ja noduco hij. Erupebco varli suglo neubo rizabvon gap aguoswic olaga wev sih va malip oto koftes tivujsu mimdap cuv idu."
+  },
+  "apiKey": "d64e8ed798eb4f6912934d962babbfbf0b00276548293a83b0fa874c3d2d574c",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}

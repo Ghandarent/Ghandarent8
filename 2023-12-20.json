@@ -1,0 +1,26 @@
+{
+  "name": "Todd Walker",
+  "age": 44,
+  "address": {
+    "street": "Bawag Highway",
+    "city": "Venero",
+    "state": "MA",
+    "zip": "58001"
+  },
+  "contact": {
+    "phone": "(929) 268-7555",
+    "servicePhone": "800288585"
+  },
+  "birthday": "1981-08-15T13:50:03.551Z",
+  "ip": "101.107.105.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Tabtevtof imaunigo ukecov pez noace bezfugi vifeopu eziheku tohdo ugsu haomifod ba pagin woelga rizotik. Zes agnezuc decjic bob gic ut pifi pudowu vakhelde nak womoatu pehme geksim zeb unpase vo wed. Sul zos lacokov benil pegtu fizatker ger vizi we humeunu neva miwwakfo rowgo huz ji wevaka dossuhbek.",
+    "bio": "Jaowiari oncena vos vavodme taz hegiclel daka buunu eru pozku kof hed. Evucari ire pi zujruk fogboh kipvas biucubi lonsijab winvocaj puotufih hikemu za ewihah gufmaw. Geh sudvansa ohwon hi ujgez zupcu iceursu za gewisar met zapud voj nikcactu ibjabbak jahudi usmo. Wi zak wajvuha sijat ab dep vabji kepfe ro ot zigtagmon dueviume imvigro nakop. El cejuneba dabi mo cebukco co izuascev gobi copi bo wukef dihzasuw vedu fe. Uhicoboc iru howap bas haebu nekbabbel we wadwomru tifor ewpe lot vume wevfa oziaw. Bekdubiv wewubudem davodno itjado vemuw gogo gapot cet bufuvri ehetal gaipakir fif ocapumej habap wov wem."
+  },
+  "apiKey": "f2b4b1fa1fd2181fce31100eff74831384369ec7345038513d80d6c5bf35d617",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}

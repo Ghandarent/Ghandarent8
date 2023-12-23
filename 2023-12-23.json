@@ -1,0 +1,26 @@
+{
+  "name": "Gregory McGuire",
+  "age": 20,
+  "address": {
+    "street": "Irauk Trail",
+    "city": "Rakjepir",
+    "state": "CO",
+    "zip": "08769"
+  },
+  "contact": {
+    "phone": "(385) 313-7709",
+    "servicePhone": "800671515"
+  },
+  "birthday": "1982-06-14T04:08:47.775Z",
+  "ip": "55.95.81.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Najov opbib oce tusjosar fenra zejod vucirih ri ga pagujim duzbolul fez zikteb ga orbuwal vaoc nowvaev dir. Coaha veag fesem vomude na sivemceg ri lo tajuk jodmo anovi biet ratso rav nitzutev. Zu zakuklip hi oc lab ugurafev uzij olneza filero kikemu wedri kaik ipvuf. Eh voh ron noazeki ulajuika be abipihmij ira iw regjikil civ it wejten cunij. Himluj lo dahgi vifafo ri eni pin zuzcos reluntef lebpeur ciezunu gut zinefi.",
+    "bio": "Ale peti nak fi huno cevdosiz ego va bitevik iju lavkuj wosog iru la gujeh. Pivvuvez joj ase funo zaozobuw varjeva ni gomno cubjez calo umaat fi anafo uve fipidub ipwap. Olpedko ali pujevokuv pahtel jak cibnek di savi lo sopuro horeh lenlo fahonjas kotlizjo."
+  },
+  "apiKey": "f8eb4ad4507c67fc208c97be547753171280427e95f6c4689b2667118c8a117d",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Vera Becker",
+  "age": 57,
+  "address": {
+    "street": "Legnif Path",
+    "city": "Citsema",
+    "state": "NY",
+    "zip": "07144"
+  },
+  "contact": {
+    "phone": "(966) 364-2200",
+    "servicePhone": "800394194"
+  },
+  "birthday": "1990-11-20T13:32:35.768Z",
+  "ip": "36.238.2.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Su tibsonod codida maselpes kufapub hinerizo kumioti toidano ahle gef cidepfog zut kah kewe. Ki zi palur usma wi ham da imiwo dus mo turfu bac sacmupire. Rez an po di luwziluh kufa ticapuema juw enkid puvni wopu emgu ticegaol ha fiuh wog mutten. Rogwa pe usuwojaf negamiw ij gifsuefa go zefnoh tutarluh os cadcuar epotew angosos. Asu ginewot da uguosge icu zov toef ibcomho zom ve gop ne.",
+    "bio": "Jov gujfuguji cuhsi aropued toju tikezdoh ne gos ri ewroj fefo sezro ba sujiv salose bunen kam gez. Uvonane rak ce bihiz zicojove sigsu azih doce korracgo bir ipefu lazku rivehe gowituhe abe keogi. Woebe pitiero ca dukse paw hi wir apcip javducso vebeb ce peejka vachig oju rim te. Ah meg zoga mo vija jut juzjemo ez veracpi vuprep ig fu ci ejzuim mifusiv fivof. Zaahju joju faigere buhi avpi loec gomni zucso ja jauhpom lal agnise gool cigcum rup."
+  },
+  "apiKey": "57e467afb3c560323911507c8538d3ccbae29a920aceb7fd356e588d39e6c0ac",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}

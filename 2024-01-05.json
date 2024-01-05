@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Perry",
+  "age": 40,
+  "address": {
+    "street": "Wonah Junction",
+    "city": "Cuohuliw",
+    "state": "KY",
+    "zip": "41242"
+  },
+  "contact": {
+    "phone": "(463) 306-8687",
+    "servicePhone": "800935367"
+  },
+  "birthday": "1991-03-19T04:46:51.555Z",
+  "ip": "187.248.233.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju apcabpo dag ovbo ac etuzij sestadti vido siba ke ja puda lirzas zik darig. Tasod kisiz iswakez udomujle ip zo amagagu fiji rakvivwe efvedjuc jos rucif bir. Jud jatacin poza fuijeso cir huguz vawuhome homezik tabavofe cagkova gissoj sa lajlocap.",
+    "bio": "Hitakow sewopcir cuv ifto pic uve ubtiru jeska izmuvzi iwihuwo efanehzak lenbu ezokuhvap bugna. Pe eju ta cahwi buc jop gus ricevpok mulif wugsi evacis kavi riozi. Gusi towig ruro lezelton bu gev ukjomas dicim udugophog ome uhihi res zup. Virdidoh hozibar lif cazo huj nalfum zeh noppi zo di ratag dip fuk."
+  },
+  "apiKey": "b3375b1c9a384ac9263d377077508372e5790716d14a6f7ccb021cf59b8e5af3",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Evan Douglas",
+  "age": 26,
+  "address": {
+    "street": "Zuvho Point",
+    "city": "Rodboha",
+    "state": "AL",
+    "zip": "33808"
+  },
+  "contact": {
+    "phone": "(426) 455-4493",
+    "servicePhone": "800998578"
+  },
+  "birthday": "1982-03-13T05:23:55.193Z",
+  "ip": "111.166.176.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Le jevhoz ko ridompuw ruvohow lufsap ukuwa miwma rurujas zekaul meolef gijku. Deckevad su rem re bu be biscuh re vo sihze daztuske we muh vi duoza zumnihab duniuza rentisa. Giron hecic guf magefoh divkir da za ije sewtuuwi borjar zeracofe se. Sehsif de cuvem eso dopas at gakug lifa naohro cubfab kujen miwka. Gip mapvi urzep ga maop voowo gavvo kesle coicfe direrus lufaghom kavukiza bifijlu ri ra jat ako nokew.",
+    "bio": "Wuhocti kujegon wubewiz rab vagrof pezere avolaz boziah hiloj pared hendeh ril ibiidkim nizu. Jah ludaam lumepcu po lefofa rutapgof su ohsew le tofuvrun ojuduhbe fedu. Cumas eta hodzu izone muzejoid werif ro duf goju fejrezti soku fad."
+  },
+  "apiKey": "9df10dadc0d728562169243651279b8c488dc78ff1dcd5588338b90694cb0306",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}

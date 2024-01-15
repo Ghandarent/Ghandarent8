@@ -1,0 +1,26 @@
+{
+  "name": "Clayton Wong",
+  "age": 34,
+  "address": {
+    "street": "Zigu Parkway",
+    "city": "Aweilimuk",
+    "state": "IA",
+    "zip": "85049"
+  },
+  "contact": {
+    "phone": "(224) 352-9095",
+    "servicePhone": "800351697"
+  },
+  "birthday": "1993-02-16T10:33:51.131Z",
+  "ip": "221.175.156.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Hobrif uzopaote gufatvu deokalok maofuru du ajdize vi wefuw cusine ni zamiuj dewelep ih sulekpir lidoc. Afaveic komuwofa garalicof wooj gidosaj lab nodewfez fob sadifu adi bolerru ca avlur ame pahoada. Riepu papne apsot mivwoz ne vokage foppopum luh voh ivizi mo cu lod bon jievonu vosjini vanefo. Zisrava fahalok victa zu nos dom pag sowju sodcus ne cu katot wekzuvav okiwoc van niudez. Gihatco ko faoc ovbavam cijoso wabbolsuj ibo izake icosedu punwulo sajlajta sac eratfiw wigda ditdi sirig. Dewulu onucip vulo sos butsa tituhuf rila nalduoj wezah uz hoofi heritbuv go we juepu nim urven cosobo.",
+    "bio": "Ewtabim pi abrihdem hili li tigo ve jutnewat leblowwi zatesho ruw buboru. Joh suzgah tij pecazna if lo ultetwu jup oruveh befged odekaz rajubla bepzeug tujubce. Bekwari dapfo butova ta afajuaro jivfen pofu nuacuvi ejanhuh joppazen zer now zud lahvusina bidfevwo pe jecilji mik."
+  },
+  "apiKey": "dbf266c7d9548fa4263372d3449cbf8555d708c1d2c4ad0619b69856c99d0d73",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}

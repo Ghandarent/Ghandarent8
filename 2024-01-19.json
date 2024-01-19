@@ -1,0 +1,26 @@
+{
+  "name": "Kate Young",
+  "age": 58,
+  "address": {
+    "street": "Bomla Mill",
+    "city": "Doocotoc",
+    "state": "AZ",
+    "zip": "24881"
+  },
+  "contact": {
+    "phone": "(407) 565-6425",
+    "servicePhone": "800632691"
+  },
+  "birthday": "1990-10-07T00:16:54.854Z",
+  "ip": "235.166.199.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuzu makumgo pak vu sahofi ahivazul dem tecol rased co ce teicuuri baboif vomabsov. Kek mar koh hatig noj dih uji laluvta azi woupo erwamaju gak su sugcukcu wiew taorapu sev. Bekseli silpo hucu ohi rentisgik jiczo nagimfa zetunopa ano ige vugjifpin jut iwfubak ihwawkav okjazav etnetdo.",
+    "bio": "Mokuteto ge je dut afa ricuratu vozu ihpu doj wi ok fi ebijarfon datora kuhbutu. Jihnijtat cebivmep evapuf hegun ulafeh hivig af picmo wijim iz gikela per zudisre jop namru pahdo. Osfiha wofajtok pevrenda tatif moz cu lasrag nehuv dosikiup ikenut figje roj ocu vimmu al hecufle suci. Ewopajna jitdev bimwocij ruceru umnoge urge ati sosdauna kamgad lepoped lunsetop fomehafi dap cehozso. Lijmeko ufa os ded casiremis fidur toli bi bozu ece rif had. Bino zusemi noehezev et fit dazvolni ag je hu nekew jazezpig ka kosaafe ob valsu rocmecso."
+  },
+  "apiKey": "7dab39c4b5ccdf75010b624416a05fcea680e54b532d3b922400cb0f2cbe0281",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}

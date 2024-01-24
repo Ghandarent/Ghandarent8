@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Gilbert",
+  "age": 30,
+  "address": {
+    "street": "Ganzo Place",
+    "city": "Dudahu",
+    "state": "WA",
+    "zip": "82107"
+  },
+  "contact": {
+    "phone": "(600) 653-7487",
+    "servicePhone": "800656436"
+  },
+  "birthday": "1995-03-04T21:23:30.309Z",
+  "ip": "120.69.229.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Zelhubvo soke da roghag ugfak aw foc hit jiori vealu pem gam evbotsec sor adlu hokic. Bapaggo haffe ni kasofvej pa zim sa ti sanis nogiwek vudonunol ofpiggez uwbizbe. Vepiw aha roliwpem lazuwo huaf co aglajme afog gug zibiac povdon jajwu pafat ozmutwo dojzos do got odejociw. Zinguwfat gon naturi orohkac heduzata vefuebi ze dehupo cerej tusnap demduwpap ve rut luitoho nesdaec buho mojomehac.",
+    "bio": "Lifuki rudiceh tecbomhed zahadzi zo gep ufgiavo bagro vahhuwru na lama uvaneke iheozo bulwi. Jisoome ak ofecis ge salhes fada kifa kegu wezjav isafiko lug du sufih wiju bazgefsa egiuhu ceze gu. Sub ib kif uzpamogo jaw coicacat jodi ubce nus vecetrap riek vor risri jeh."
+  },
+  "apiKey": "d6b3fe82f714a76d64a185e3e9e60704da2954c914cc82959751cbab31870382",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}

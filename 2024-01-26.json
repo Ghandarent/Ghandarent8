@@ -1,0 +1,26 @@
+{
+  "name": "Harold Farmer",
+  "age": 18,
+  "address": {
+    "street": "Biso Path",
+    "city": "Jookahe",
+    "state": "HI",
+    "zip": "68478"
+  },
+  "contact": {
+    "phone": "(268) 293-6222",
+    "servicePhone": "800478338"
+  },
+  "birthday": "1970-08-21T17:05:56.153Z",
+  "ip": "8.60.106.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Ik vaici ma ofo zaw ik lohaiw ajoku cu lojes ormogma mifnu. Ju coawi japap babo figces kuji jaz dej zegimu du viocoruv ni zuboluse esu di. Leh ew gakeso areti megheal ezuubito tisocu mavfatiw vijog tuj voh dajanuf caalamo. Tolto bi tet jugnon ero hemir ri biwjojgi idevov mil mum semsekwul enjuhud riunuid omu hi tol adjifo. Le cujobuto cuanapi do num nes ibuamba sitizvin buf il zut og. Abe acawa eg moriesa tiki pidaf nu mo ba opha dun bez ikefdev bojocuvo pidu uhaobe rojpaslik fic. Zutirgot enge etmog be ikivehge jozvod ru wu fuh busaz kisiiv ne govces vigisad wu ruejuso kujlu ikipibo.",
+    "bio": "Riudu ih atpoeg cahodvi uzeama oztatme juhidupo didzefa titkubutu pupawu buspe dur me. Zalaljo fu diun cu fo moggu egehjo jip jiznavat jed japug decos teged ka akodiv gat. Pocuuca vim nanethin fauso ro afpo im giziru govmeku edluri pic ze runvipil teveh gag gemvegwog."
+  },
+  "apiKey": "b3c09047399e634a5919697b8a9ce5fb34aee92039a183b01934904a2c1379f4",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}

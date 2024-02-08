@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Francis",
+  "age": 27,
+  "address": {
+    "street": "Pecpo View",
+    "city": "Nuojoven",
+    "state": "IA",
+    "zip": "35323"
+  },
+  "contact": {
+    "phone": "(230) 430-4725",
+    "servicePhone": "800757535"
+  },
+  "birthday": "1985-03-27T15:59:05.079Z",
+  "ip": "10.48.110.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Cu bekuja pu ic ga tot un tuh pin muloded ve ib bar lodegko ot ev vu cawhiocu. Dagmip zepdihel ol seaku wak fi zehej vocacozag pewpo ivuci odaze hazetu col. Lakja uplifir huhul piuj fobvibo na bi usewamse ajizicma sa buhu jo ler liah neufoom banila voukcun. Pa ziupowep bobnub ohu evo zeahi tal ugiwikip mivrinba ipanawjo ejefobez jihzew po nuvob fup rehok lepmibuz date. Firuv tiphipup wozgimzur geme ce korzigwi lezte bal hitvigsuk uzebanidu coetme jitduhihe. Suvbeihi aho irus bu eveleda fidtu iko ekmogev hitzu canhuhem zeabu juzulac tezitvac raasipu tobdit.",
+    "bio": "Cim butcaom pejlucor himpif wal nivmissej sadtugnep bam ne elosad rupa ikonmow. Mina hiw naloku dev hod lohumad ko naenosuf nohran cecilo vuec raf nawuuk femjirro wehu fioji. Zukad el obe kob jofcedeg revpapi bubuvec wevlaf nek suvew ihosodo hoksapir ijinavu hew bauniuju fe nazob joranev."
+  },
+  "apiKey": "3e4a51bbe0b325d8d0199231fa4db5c00f176d99584d719bc45d47dc4fc597c9",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Ora Jones",
+  "age": 50,
+  "address": {
+    "street": "Izav Parkway",
+    "city": "Anuonaze",
+    "state": "SC",
+    "zip": "21713"
+  },
+  "contact": {
+    "phone": "(515) 919-2680",
+    "servicePhone": "800759865"
+  },
+  "birthday": "1963-07-20T09:29:12.962Z",
+  "ip": "176.145.113.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Cela nev budohijar kuh ap ihibew feis hasu dar kumdemcos fi foriza ko werdu rozoz gu foh. Osufolu lak ufculer folivfep wulkufe amuutug avew cicmab ushi pedajmim ficiev jeg hada ow tosuca. Cunmogfak ep wosebcup bukiv mikohov co hid minmoun bumgigfon mukpowiw ki huhazfol lacitzip bole bu zanuvges simbobmek mulsedom. Zitroba umfegmew umcipu hekzo sahak emu burba wehuta vo uravikija wet epo.",
+    "bio": "Ungibci naep aronoji igucolu lajasda zigzumfu siinoeki pu ri le pera ivu biodoc. Elbog wisil jijihacoh dawiaj ponolmo vawzaf hiabu hiisa van ete fezaf ib dev ve relweje sa. Ije didas fusnup me tuvdihav onpemji geppo iteco atisin ohzavlo mer ep kuvu hifu."
+  },
+  "apiKey": "46d58dc576fc80b6724d7bf0fa0432baf8b578f92cbd0f3b6ca68807abb67a69",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}

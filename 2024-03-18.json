@@ -1,0 +1,26 @@
+{
+  "name": "Kate Jacobs",
+  "age": 48,
+  "address": {
+    "street": "Miupi Parkway",
+    "city": "Semage",
+    "state": "WA",
+    "zip": "23476"
+  },
+  "contact": {
+    "phone": "(809) 330-5841",
+    "servicePhone": "800942141"
+  },
+  "birthday": "1990-01-31T21:24:20.596Z",
+  "ip": "55.128.191.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Bojokno ravikbos wihcompih nuek kurlod susapanin ce poci pecsin dos ijoukoze bih helunuzi nekot zitetal lefpil ziwibben dum. Doukifaw daznail giheg naw dukema gu ki bu jalap ja okorozo uk zi. Hevit jazde ud viddeoco ad roradma survazo eg fe iduf ibbo luf ku. Hekaj pinvoc cusuh mazinla jomcoaf gave opvod ri oce sotvurer evhowir dawate neebesi re sicfot.",
+    "bio": "Kurba feb fu uv esnal al woj ev irumi lidijte eknam barepga lohumuw meceeh re. Kupakupif fuwpa emuvawuh jusir tuw di kezdin eg vipec mikiame zopwoad na caheg utokipef wirakir ule bo nu. Wo dicmet ac calitot jufuh evtu atul vudtut ruirapa tetazu zejriip lirpatpir muv funuten."
+  },
+  "apiKey": "d1c98ad5dfa72eb3bbc781fbe078944eb2addc7de56a314c4b3c51704174b4e3",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}

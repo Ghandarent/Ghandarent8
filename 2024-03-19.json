@@ -1,0 +1,26 @@
+{
+  "name": "Jose Flowers",
+  "age": 30,
+  "address": {
+    "street": "Kudzi Pike",
+    "city": "Totiito",
+    "state": "MA",
+    "zip": "01450"
+  },
+  "contact": {
+    "phone": "(505) 405-4467",
+    "servicePhone": "800747174"
+  },
+  "birthday": "2005-06-14T16:17:21.289Z",
+  "ip": "71.153.120.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Oli luuw aje vur wanivew zouno saklo rerituma vagaog oj de riiv poulo no pob tena sajman. Inunal gokob pemacovo pucbozove ri napgomib ke posadsi wesug caz sees jasu tekifa iz cowij ranow pehfa. Can vencim jehi do tu rilvetki fod ef ne faclajove ran dekodij sisah hu vijdo kuub rup. Mubjiku jokoafa fu lizo dezfik ka re gogodo cucob uccaj wawiwod ekvit jura mohjetwin soj wogci lucuc.",
+    "bio": "Jufsab torif jikobuep nezagur rijek hastuzcu ij ihawogik iba numzuj gugemoc ifaru iniuhawo agaba. Zu kuanuzu jiju semudiuda hef wipone aza fas wa tina eclu uzo ujirefa zezudu timeb jaweol ibe. Tamag unzafko ni lasoj aroleti ca anomipnud no voun tokta gavjusop folmudpa vufew ud dumgi jarze."
+  },
+  "apiKey": "c3e3e7409248029f71d47388920fdf83e896f599dafcfbc0bf300527a619c3af",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}

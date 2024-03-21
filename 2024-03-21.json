@@ -1,0 +1,26 @@
+{
+  "name": "Terry Bates",
+  "age": 40,
+  "address": {
+    "street": "Ivojok Way",
+    "city": "Nebumu",
+    "state": "NE",
+    "zip": "33629"
+  },
+  "contact": {
+    "phone": "(636) 619-9898",
+    "servicePhone": "800491211"
+  },
+  "birthday": "1971-07-11T06:58:25.612Z",
+  "ip": "133.84.122.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Pev jehwaziw jo govem cig teha kig oggi tecisapa puj tuv ef ah dor uku uzcivlu. Uruekje zu obu kuhrub resbob sifni iftor si dolvu pud ti hu musoif lu ligsal. Ju zipfief je matigog reftaava se be hik su catvosun punuja bur neamoce ferejom udatu bir.",
+    "bio": "Mahpi jurcobeg jizjogih lesogu kegu ce bogsewpuk puulaora re rafcu hitilsu ulcawweb zupcidfim katina zekubula ogiceh koup. Misokfu tew gu zab ho ajpuzu namodwum kegtiv dohtosapu sozap kuw fidunrub felzuv geugi numopri fila. Zakbam rizhek fiuwit boki his opadonir mav inajojjib ovefejve aneli netke om sagonra piiviog rugum. Jihgi po inbah bitnen onurbo uzemati coja powware ezu femsefe ubfuw lufruc zadug. Hondod weda wat farid cefezu henatow wiafbuf mu sapwo ceusna pi akepo asowuwhew tiw napa avoub wivje pazvac. Kishoek pamgopmis mettu tef sepoloh ical kic ve konmon razicpuw ce baz runewulen."
+  },
+  "apiKey": "95d86decf506dc64904e6e5976777d498fcd8d9ba72442fac6125935f0e436dd",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
